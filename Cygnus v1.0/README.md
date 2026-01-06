@@ -255,8 +255,8 @@ If you are building the wireless version, you don't need the TRRS sockets or the
         <td>2</td>
         <td>Power switch</td>
         <td></td>
-        <td>3.7mm x 3.7mm x 8.7mm, 5mm knob</td>
-        <td><a href="https://www.aliexpress.com/item/1005003938856402.html?spm=a2g0o.order_detail.order_detail_item.3.2b06f19c8r693T">Aliexpress</a></td>
+        <td>SS12D00 Mini Toggle Switch ~3.7mm x 3.7mm x 8.7mm, 5mm knob</td>
+        <td><a href="https://www.aliexpress.com/item/1005010432259017.html">Aliexpress</a></td>
     </tr>
     <tr>
         <td>2</td>
